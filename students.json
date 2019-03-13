@@ -1,0 +1,20 @@
+{
+    "students":[
+        {
+            "name": "Jorgito del Mazo Géis",
+            "age": 48
+        },
+        {
+            "name": " El Pirruris ",
+            "age": 42
+        },
+        {
+            "name": "Coque Muñiz",
+            "age": 36
+        },
+        {
+            "name": "Polo Polo- Polo-Polo",
+            "age": 47
+        }
+    ]
+}
